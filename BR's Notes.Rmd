@@ -17,3 +17,10 @@ Package created by JC for GitHub Collaboration
 #  library(here) : Identifies a .rproj and makes it the root directory. Never have to use setwd() every again! 
 ```
 
+```{r}
+new_iris()
+create_dirs()
+im_lazy()
+look at the "Rstarter" package 
+```
+
